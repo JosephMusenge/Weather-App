@@ -20,5 +20,5 @@ This is a simple weather application that allows users to retrieve and display t
 
 ## Dependencies
 
-- This application utilizes the OpenWeatherMap API to fetch weather data. It requires an API key to make requests. You can sign up for an API key at [OpenWeatherMap](https://openweathermap.org/) and replace the `apiKey` variable in the `script.js` file with your own API key.
+- This application utilizes the OpenWeatherMap API to fetch weather data. It requires an API key to make requests. You can sign up for an API key at [OpenWeatherMap](https://openweathermap.org/) and replace the `apiKey` variable in the `app.js` file with your own API key.
 
